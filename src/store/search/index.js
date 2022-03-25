@@ -3,4 +3,5 @@ const state = {
 };
 const mutations = {};
 const actions = {};
-export default { state, mutations, actions };
+const getters = {};
+export default { state, mutations, actions, getters };
